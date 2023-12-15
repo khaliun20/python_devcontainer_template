@@ -19,4 +19,4 @@ This repo is created as a template for my data engineering course.
  3. Add any neccessary libraries to be used for your actions in requirements.txt
 
  The template is set up in a way that when you push or pull request, CI/CD is automatically executed. 
- If the workflow actions added succesully pass the CI/CD, you will be green check mark on the Action tab.
+ If the workflow actions added succesully pass the CI/CD, you will see green check mark on the Action tab.
